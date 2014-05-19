@@ -4,7 +4,6 @@
 # Created by:   mclanem
 # Organization: University Of Michigan
 # Filename:     
-# Test Comment
 #========================================================================
 
 $serial = Get-WmiObject -Class Win32_BIOS 
